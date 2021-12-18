@@ -65,6 +65,12 @@
         settings:controller="com.android.settings.accessibility.ColorInversionPreferenceController"/>
 
     <SwitchPreference
+        android:key="toggle_edge_effect"
+        android:persistent="false"
+        android:title="@string/accessibility_toggle_edge_effect"
+        settings:controller="com.android.settings.accessibility.EdgeEffectPreferenceController"/>
+
+    <SwitchPreference
         android:key="toggle_disable_animations"
         android:persistent="false"
         android:title="@string/accessibility_disable_animations"

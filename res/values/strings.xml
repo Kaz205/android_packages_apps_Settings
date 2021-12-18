@@ -5476,6 +5476,8 @@
     <string name="accessibility_toggle_primary_balance_left_label">Left</string>
     <!-- 'Right' balance text for the accessibility preference for primary balance. [CHAR LIMIT=20] -->
     <string name="accessibility_toggle_primary_balance_right_label">Right</string>
+    <!-- Title for the accessibility preference to disable stretchy overscroll effect [CHAR LIMIT=35] -->
+    <string name="accessibility_toggle_edge_effect">Disable stretchy overscroll effect</string>
 
     <!-- Option heading to leave the timeout requirement for accessibility users at its default level. [CHAR LIMIT=35] -->
     <string name="accessibility_timeout_default">Default</string>
